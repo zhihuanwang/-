@@ -1,0 +1,4 @@
+﻿  main.c
+f:\workspaces\visual studio 2013\projects\比赛评分问题\比赛评分问题\main.c(48): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+f:\workspaces\visual studio 2013\projects\比赛评分问题\比赛评分问题\main.c(169): error C2440: “=”: 无法从“player *”转换为“player”
+f:\workspaces\visual studio 2013\projects\比赛评分问题\比赛评分问题\main.c(171): error C2440: “=”: 无法从“player”转换为“player *”
